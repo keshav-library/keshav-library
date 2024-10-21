@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Keshav Das from south-asian country, Nepal.
+- 👋 Hi, I’m Keshav Das from south-asian country, Nepal.
 - 👀 I’m interested in crafting tools that equip to deals with my own problems that are simultaneously faced by huge mass of people around me.
 - 🌱 I’m currently learning secondary level "Electrical engineering" in a public school of Nepal.
 - 💞️ I’m looking to collaborate on crafting possible solutions for dump students like me.
